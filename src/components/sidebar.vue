@@ -1,5 +1,6 @@
 <template>
-<div class="main">
+<div>
+<h1>hello there</h1>
 
 </div>
 
